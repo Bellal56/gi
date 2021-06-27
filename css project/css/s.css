@@ -1,0 +1,69 @@
+body{background-color:#8d4c2c;
+	width:100%;
+	height:100%;}
+
+h1{	color:red;
+	background-color:gray;
+	width:500px;
+	text-decoration:overline;
+	}
+p{
+	font-size:15px;
+	text-align:justify;
+	Background-color:gray;
+	color:#ac1b98;
+	text-indent:20px;
+	}
+.demo{	background-color:green;
+	color:black;
+	font-size:20px;
+	text-align:justify;
+	width:500px;
+	padding:20px;
+	border:20px solid blue;
+	margin:30px;
+	border-radius:50px;
+	box-sizing:border-box;}
+	
+	
+.img_number1{border:20px solid red;
+	border-top-style:dotted;
+	border-right-style:dotted;
+	border-bottom-style:dotted;
+	border-left-style:dotted;
+	border-radius:20px;
+	padding:10px;
+	margin:30px;}
+	
+.img_number2{border:20px solid black;
+	width:550px;
+	border-top-style:double;
+	border-right-style:double;
+	border-bottom-style:double;
+	border-left-style:double;
+	border-radius:20px;
+	padding:10px;
+	margin:30px;}
+
+.img_number3{border:20px solid red;
+	width:550px;
+	border-top-style:dashed;
+	border-right-style:dashed;
+	border-bottom-style:dashed;
+	border-left-style:dashed;
+	padding:10px;
+	margin:30px;
+	border-radius:10px;}
+
+.img_number4{border:20px solid blue;
+	padding:10px;
+	margin:30px 50px 100px 100px;
+	border-radius:20%;
+	outline:20px;}
+.circle{width:200px;
+		height:200px;
+		background-color:red;
+		background:radial-gradient(blue 40%,green 50%,red 70%,yellow 20%);
+		border-radius:80%;}
+
+	
